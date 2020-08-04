@@ -26,6 +26,9 @@
 </a>
 </p>
 
+# IMPORTANT
+This forked version only has one difference: in the Package.swift declaration it defaults to the Kitura-NIO dependency instead of KituraNET. This is because KituraNET does not work on iOS at the moment.
+
 
 ## Summary
 
